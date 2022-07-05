@@ -1,0 +1,49 @@
+/****** Main Styling ******/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #222;
+	background-color: #00A1DE;
+	text-align: center;
+}
+
+.container {
+	padding: 0;
+	margin-top: 60px;
+}
+
+p{
+	margin-top: 3rem;
+}
+
+/****** form styling******/
+
+
+
+form{
+	background-color: lavender;
+	margin-left: 15%;
+	margin-top: 3rem;
+	width: 70%;
+	height: 10rem;
+	border: 2px solid darkslategray;
+}
+input{
+	margin-top: 2rem;
+}
+
+.upl{
+	background-color: #00A1DE;
+	border: none;
+	border-radius: 2px;
+	width: 40%;
+	height: 2rem;
+	font-size: 1.3rem;
+	border: 1px solid gray;
+	font-weight: 300;
+}
+
+.upl:hover{
+	background-color: lightblue;
+}
